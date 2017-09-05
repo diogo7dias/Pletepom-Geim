@@ -1,0 +1,643 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 (ID=0xfc6)
+    Vendor:   NVIDIA
+    VRAM:     994 MB
+    Driver:   21.21.13.7563
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\D\Documents\UnityProjects\플랫폼 게임\Builds\플랫폼 게임v_1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\D\Documents\UnityProjects\플랫폼 게임\Builds\플랫폼 게임v_1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\D\Documents\UnityProjects\플랫폼 게임\Builds\플랫폼 게임v_1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\D\Documents\UnityProjects\플랫폼 게임\Builds\플랫폼 게임v_1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\D\Documents\UnityProjects\플랫폼 게임\Builds\플랫폼 게임v_1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\D\Documents\UnityProjects\플랫폼 게임\Builds\플랫폼 게임v_1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\D\Documents\UnityProjects\플랫폼 게임\Builds\플랫폼 게임v_1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\D\Documents\UnityProjects\플랫폼 게임\Builds\플랫폼 게임v_1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\D\Documents\UnityProjects\플랫폼 게임\Builds\플랫폼 게임v_1_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\D\Documents\UnityProjects\플랫폼 게임\Builds\플랫폼 게임v_1_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\D\Documents\UnityProjects\플랫폼 게임\Builds\플랫폼 게임v_1_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\D\Documents\UnityProjects\플랫폼 게임\Builds\플랫폼 게임v_1_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.158 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.937922 ms
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.368117 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 575.
+Total: 0.272894 ms (FindLiveObjects: 0.041960 ms CreateObjectMapping: 0.014489 ms MarkObjects: 0.207085 ms  DeleteObjects: 0.009358 ms)
+
+Activated Checkpoint (-13.0, -8.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Activated Checkpoint (-13.0, -8.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Activated Checkpoint (-13.0, -8.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Activated Checkpoint (-13.0, -8.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+Activated Checkpoint (-13.0, -8.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.205081 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 0.396058 ms (FindLiveObjects: 0.025055 ms CreateObjectMapping: 0.020829 ms MarkObjects: 0.274101 ms  DeleteObjects: 0.075770 ms)
+
+Activated Checkpoint (-18.0, -5.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.587144 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 778.
+Total: 1.020032 ms (FindLiveObjects: 0.084524 ms CreateObjectMapping: 0.089052 ms MarkObjects: 0.819286 ms  DeleteObjects: 0.025659 ms)
+
+Activated Checkpoint (-13.0, -3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.742416 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 1.190893 ms (FindLiveObjects: 0.070638 ms CreateObjectMapping: 0.062789 ms MarkObjects: 0.684348 ms  DeleteObjects: 0.372210 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.063200 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1173.
+Total: 1.248852 ms (FindLiveObjects: 0.139465 ms CreateObjectMapping: 0.092373 ms MarkObjects: 0.988335 ms  DeleteObjects: 0.028074 ms)
+
+Activated Checkpoint (-6.4, -5.6, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+Activated Checkpoint (-5.4, -15.6, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Activated Checkpoint (-5.4, -15.6, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Activated Checkpoint (-5.4, -15.6, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Activated Checkpoint (-5.4, -15.6, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+Activated Checkpoint (-5.4, -15.6, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Activated Checkpoint (-5.4, -15.6, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Activated Checkpoint (-5.4, -15.6, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Activated Checkpoint (-5.4, -15.6, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Activated Checkpoint (-5.4, -15.6, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.519633 ms
+
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 0.821399 ms (FindLiveObjects: 0.028678 ms CreateObjectMapping: 0.033206 ms MarkObjects: 0.318477 ms  DeleteObjects: 0.440434 ms)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.312439 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 575.
+Total: 0.901395 ms (FindLiveObjects: 0.071846 ms CreateObjectMapping: 0.061582 ms MarkObjects: 0.739893 ms  DeleteObjects: 0.026866 ms)
+
+Activated Checkpoint (-13.0, -8.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.366583 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 1.045087 ms (FindLiveObjects: 0.070336 ms CreateObjectMapping: 0.061280 ms MarkObjects: 0.705479 ms  DeleteObjects: 0.206783 ms)
+
+Activated Checkpoint (-18.0, -5.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.018522 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 778.
+Total: 1.075879 ms (FindLiveObjects: 0.093279 ms CreateObjectMapping: 0.090864 ms MarkObjects: 0.864567 ms  DeleteObjects: 0.026263 ms)
+
+Activated Checkpoint (-13.0, -3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Activated Checkpoint (-13.0, -3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Activated Checkpoint (-13.0, -3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Activated Checkpoint (-13.0, -3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Activated Checkpoint (-13.0, -3.0, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.064214 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 523.
+Total: 1.221684 ms (FindLiveObjects: 0.070940 ms CreateObjectMapping: 0.062789 ms MarkObjects: 0.713328 ms  DeleteObjects: 0.373116 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.090067 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1173.
+Total: 1.282964 ms (FindLiveObjects: 0.149729 ms CreateObjectMapping: 0.094788 ms MarkObjects: 1.008561 ms  DeleteObjects: 0.029281 ms)
+
+Activated Checkpoint (-6.4, -5.6, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+Activated Checkpoint (-5.4, -15.6, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'EnemyDeathParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'NinjaStarImpactParticle') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.976260 ms
+
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 0.382474 ms (FindLiveObjects: 0.019018 ms CreateObjectMapping: 0.015395 ms MarkObjects: 0.151842 ms  DeleteObjects: 0.196218 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2a1c -> priority: 1 
+  Thread -> id: 2950 -> priority: 1 
+  Thread -> id: 126c -> priority: 1 
+  Thread -> id: 2f60 -> priority: 1 

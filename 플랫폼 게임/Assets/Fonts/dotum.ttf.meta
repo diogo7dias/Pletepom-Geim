@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 37c3bba15bbcea940882fb61ee7379b7
+timeCreated: 1499715946
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Baekmuk Dotum
+  fontNames:
+  - Baekmuk Dotum
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

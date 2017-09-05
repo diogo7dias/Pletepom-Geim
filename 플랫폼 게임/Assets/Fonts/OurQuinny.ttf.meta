@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 559d8f71998bad645b33421fec946ffd
+timeCreated: 1499532847
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: OurQuinny
+  fontNames:
+  - OurQuinny
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

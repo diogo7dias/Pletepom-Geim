@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a59b1976f7bfa4c479bb31dd803f1cde
+timeCreated: 1499715946
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Baekmuk Headline
+  fontNames:
+  - Baekmuk Headline
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

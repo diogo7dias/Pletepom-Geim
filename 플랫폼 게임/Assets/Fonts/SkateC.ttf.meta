@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 02363aec781df79439c5022e376ba33a
+timeCreated: 1499532846
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SkateC
+  fontNames:
+  - SkateC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

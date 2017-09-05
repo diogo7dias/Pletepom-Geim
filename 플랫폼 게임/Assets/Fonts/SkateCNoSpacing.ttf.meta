@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a5691173e7a54f04097ffd2d279f7161
+timeCreated: 1499532847
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SkateCNoSpacing
+  fontNames:
+  - SkateCNoSpacing
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

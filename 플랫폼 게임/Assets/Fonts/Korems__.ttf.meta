@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: be953237b25053843a54a67cf6819a76
+timeCreated: 1499716184
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KoreanModernSSK
+  fontNames:
+  - KoreanModernSSK
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
